@@ -29,6 +29,16 @@
       "url": "https://github.com/AleDiBlasi0210/utilify-dist/releases/download/packages/utilify-pilot-v0.1.0.exe",
       "sha256": "89a48a8803824eb97cf3b20ee3ea1a1ed7ff68d97ec262d8646a9c06671b6d31",
       "critical": false
+    },
+    {
+      "id": "batch-renamer",
+      "title": "batch-renamer",
+      "version": "0.1.0",
+      "exe": "utilify-renamer.exe",
+      "url": "https://github.com/AleDiBlasi0210/utilify-dist/releases/download/packages/utilify-renamer-v0.1.0.exe",
+      "sha256": "4dd758c6818f68265b3a90f4818737d7d43c228cdbe4ca91ab5fce523891425a",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT25nSytKVSs1Y3BXSHhZNEh4Ukt4SnRpMUNaa1JyNHZJRkVhRkc0cDJBMTRWbU9pTVFiaG01WlRsYzV3UjExTzJUTnNZM2lmMFVKTVJZQk1VbzBiazdnZ3hqUkRnNHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzE2MzE0CWZpbGU6dXRpbGlmeS1yZW5hbWVyLmV4ZQpCNlFWa1pSMm92b0VVZmZ5S1lIbmZrQ25zdlVCR0Q3YmwyQ2l4VGpjeDRRUG5NeXRLd3VOS3E3VXZTSU5ZK0VSZ3M5Qzh2MDcyd25KaWVyRUFnRStDUT09Cg==",
+      "critical": false
     }
   ],
   "modules": [
@@ -82,13 +92,13 @@
     },
     {
       "id": "notes",
-      "kind": "builtin",
+      "kind": "package",
       "title": "Note",
       "description": "Note rapide locali con ricerca full-text."
     },
     {
       "id": "snippets",
-      "kind": "builtin",
+      "kind": "package",
       "title": "Snippet",
       "description": "Frammenti di testo/codice riutilizzabili con espansione rapida."
     },
@@ -118,7 +128,7 @@
     },
     {
       "id": "links",
-      "kind": "builtin",
+      "kind": "package",
       "title": "Link",
       "description": "Raccolta e scorciatoie di link locali."
     },
@@ -133,6 +143,36 @@
       "kind": "builtin",
       "title": "Automazioni",
       "description": "Workflow \"se X allora Y\" tra i moduli."
+    },
+    {
+      "id": "batch-renamer",
+      "kind": "package",
+      "title": "Rinomina in blocco",
+      "description": "Rinomina file/cartelle con regole, anteprima e undo."
+    },
+    {
+      "id": "emoji-picker",
+      "kind": "builtin",
+      "title": "Emoji & simboli",
+      "description": "Selettore rapido di emoji, simboli, kaomoji e caratteri speciali."
+    },
+    {
+      "id": "password-generator",
+      "kind": "builtin",
+      "title": "Password",
+      "description": "Generatore offline di password e passphrase forti, senza salvarle mai."
+    },
+    {
+      "id": "unit-converter",
+      "kind": "builtin",
+      "title": "Convertitore unità",
+      "description": "Conversioni al volo: lunghezza, peso, temperatura, dati, basi numeriche."
+    },
+    {
+      "id": "focus-timer",
+      "kind": "builtin",
+      "title": "Focus Timer",
+      "description": "Timer Pomodoro con sessioni, pause e statistiche locali."
     }
   ]
 }
