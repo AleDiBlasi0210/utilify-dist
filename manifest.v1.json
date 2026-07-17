@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "updated": "2026-07-17",
+  "note": "Elenco strumenti Utilify servito dal web. L'app lo legge all'apertura dello Store; se non raggiungibile usa il catalogo incluso. I pacchetti scaricabili veri (kind: package) arriveranno dai GitHub Releases nelle fasi successive.",
+  "engines": {
+    "media": { "version": "release-essentials", "approxMb": 90 },
+    "documents": { "version": "26.2.4", "approxMb": 340 }
+  },
+  "modules": [
+    { "id": "clipboard", "kind": "builtin", "title": "Clipboard", "description": "Cronologia della clipboard con ricerca, timeline e analytics d'uso." },
+    { "id": "screenshot", "kind": "builtin", "title": "Screenshot", "description": "Cattura area/finestra ed editor a livelli (frecce, testo, blur, forme)." },
+    { "id": "recorder", "kind": "builtin", "title": "Video Editor", "description": "Registrazione schermo ed editor video multi-traccia con timeline." },
+    { "id": "ocr", "kind": "builtin", "title": "OCR", "description": "Estrae testo da schermo e immagini; copia diretta nella clipboard." },
+    { "id": "color", "kind": "builtin", "title": "Colori", "description": "Cronologia colori, eyedropper a schermo e palette." },
+    { "id": "magnifier", "kind": "builtin", "title": "Lente", "description": "Lente d'ingrandimento sul frame congelato dello schermo." },
+    { "id": "ruler", "kind": "builtin", "title": "Righello", "description": "Righello a schermo per misurare distanze e aree in pixel." },
+    { "id": "highlighter", "kind": "builtin", "title": "Evidenzia mouse", "description": "Evidenzia cursore e click per tutorial e streaming." },
+    { "id": "notes", "kind": "builtin", "title": "Note", "description": "Note rapide locali con ricerca full-text." },
+    { "id": "snippets", "kind": "builtin", "title": "Snippet", "description": "Frammenti di testo/codice riutilizzabili con espansione rapida." },
+    { "id": "shelf", "kind": "builtin", "title": "Shelf", "description": "Ripiano temporaneo per file e contenuti trascinati." },
+    { "id": "doc-annotator", "kind": "builtin", "title": "Annota documenti", "description": "Presenta e annota PDF e documenti Office. L'originale non si tocca." },
+    { "id": "converters", "kind": "builtin", "title": "Convertitori", "description": "Converte immagini, video, audio, documenti e dati." },
+    { "id": "share", "kind": "builtin", "title": "Condividi", "description": "Condivisione rapida e generazione QR." },
+    { "id": "links", "kind": "builtin", "title": "Link", "description": "Raccolta e scorciatoie di link locali." },
+    { "id": "window", "kind": "builtin", "title": "Finestre", "description": "Gestione e disposizione rapida delle finestre." },
+    { "id": "automation", "kind": "builtin", "title": "Automazioni", "description": "Workflow \"se X allora Y\" tra i moduli." }
+  ]
+}
