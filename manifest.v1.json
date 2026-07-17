@@ -11,6 +11,17 @@
     "media": { "version": "release-essentials", "approxMb": 90, "critical": false },
     "documents": { "version": "26.2.4", "approxMb": 340, "critical": false }
   },
+  "packages": [
+    {
+      "id": "pilot",
+      "title": "Plugin pilota",
+      "version": "0.1.0",
+      "exe": "utilify-pilot.exe",
+      "url": "https://raw.githubusercontent.com/AleDiBlasi0210/utilify-dist/main/packages/pilot/0.1.0/utilify-pilot.exe",
+      "sha256": "6b8fc0599f57bb47470be98b1220cf43c24da63633b6d44fcf85fd6187d0dd00",
+      "critical": false
+    }
+  ],
   "modules": [
     { "id": "clipboard", "kind": "builtin", "title": "Clipboard", "description": "Cronologia della clipboard con ricerca, timeline e analytics d'uso." },
     { "id": "screenshot", "kind": "builtin", "title": "Screenshot", "description": "Cattura area/finestra ed editor a livelli (frecce, testo, blur, forme)." },
