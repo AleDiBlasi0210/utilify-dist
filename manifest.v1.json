@@ -39,6 +39,16 @@
       "sha256": "4dd758c6818f68265b3a90f4818737d7d43c228cdbe4ca91ab5fce523891425a",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT25nSytKVSs1Y3BXSHhZNEh4Ukt4SnRpMUNaa1JyNHZJRkVhRkc0cDJBMTRWbU9pTVFiaG01WlRsYzV3UjExTzJUTnNZM2lmMFVKTVJZQk1VbzBiazdnZ3hqUkRnNHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzE2MzE0CWZpbGU6dXRpbGlmeS1yZW5hbWVyLmV4ZQpCNlFWa1pSMm92b0VVZmZ5S1lIbmZrQ25zdlVCR0Q3YmwyQ2l4VGpjeDRRUG5NeXRLd3VOS3E3VXZTSU5ZK0VSZ3M5Qzh2MDcyd25KaWVyRUFnRStDUT09Cg==",
       "critical": false
+    },
+    {
+      "id": "links",
+      "title": "links",
+      "version": "0.1.0",
+      "exe": "utilify-links.exe",
+      "url": "https://github.com/AleDiBlasi0210/utilify-dist/releases/download/packages/utilify-links-v0.1.0.exe",
+      "sha256": "d4851978c1857a4757331fdcde4afece06712e11bb4788fcb1841e118ba15bae",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT25nSytKVSs1Y3VWMkpSQzJUV0l6STdIelRwdnJuT3pUdmIvOVl2Umx0TG42elpuVzN4RCtDMDVXTTJEdENiTzB0QWtxY29pTkVobEVOUHY5NHU1OHNKK0hJckk4VVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzE2NTYzCWZpbGU6dXRpbGlmeS1saW5rcy5leGUKQ3pTUE5zdzVtUEJBSWY0N0xqajBhdWVnaGo5RUlxM0phR1IvK3pjZnRSNGJSc2cvMS85K3dlbEEzaXhOOWpGdmcxKytsSkNXbGkwS1ZBQmNwUnFzQ2c9PQo=",
+      "critical": false
     }
   ],
   "modules": [
