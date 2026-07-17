@@ -2,9 +2,14 @@
   "schema": 1,
   "updated": "2026-07-17",
   "note": "Elenco strumenti Utilify servito dal web. L'app lo legge all'apertura dello Store; se non raggiungibile usa il catalogo incluso. I pacchetti scaricabili veri (kind: package) arriveranno dai GitHub Releases nelle fasi successive.",
+  "app": {
+    "version": "0.1.0",
+    "minSupported": "0.1.0",
+    "notes": "Aggiornamento di Utilify (fuori dai moduli): obbligatorio e automatico. Sotto minSupported l'uso e' bloccato finche' non si aggiorna."
+  },
   "engines": {
-    "media": { "version": "release-essentials", "approxMb": 90 },
-    "documents": { "version": "26.2.4", "approxMb": 340 }
+    "media": { "version": "release-essentials", "approxMb": 90, "critical": false },
+    "documents": { "version": "26.2.4", "approxMb": 340, "critical": false }
   },
   "modules": [
     { "id": "clipboard", "kind": "builtin", "title": "Clipboard", "description": "Cronologia della clipboard con ricerca, timeline e analytics d'uso." },
