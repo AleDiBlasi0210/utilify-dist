@@ -59,6 +59,16 @@
       "sha256": "2c4da8735bd91666c83ed113d5e33bb34c461870ae53118bb0b0fbc8e1690336",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT25nSytKVSs1Y3Y3eU1GV3pFS2ExODdXd3FkcVlBaXpzZDhkVUR1Y3JOVGF6bkdlekJrNjNETEM4K3FLTEFxUjFMSEswZDFkSFFUZVBuWWVBaExtSTZhdjNpcmx5S1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzMwMzgwCWZpbGU6dXRpbGlmeS1ub3Rlcy5leGUKNWZ0c2lkSTBES25JMitBSGIraE5rYjg2UjNjbzVvUjhqait1Q29oRHdPb2tQUkJSRS9BN2lzbmlFQUlBVXdRL1ZrdTJHQS9DOXlzZU5yeFF2WWNDREE9PQo=",
       "critical": false
+    },
+    {
+      "id": "snippets",
+      "title": "snippets",
+      "version": "0.1.0",
+      "exe": "utilify-snippets.exe",
+      "url": "https://github.com/AleDiBlasi0210/utilify-dist/releases/download/packages/utilify-snippets-v0.1.0.exe",
+      "sha256": "55e047debad5e972eec732625c45805f4f2d75dec08b899c2c6d3f97864edde8",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT25nSytKVSs1Y3FiTzd3d1RKQTFmUnZkd2dkMkhRalAvanpaUXFJMFNodk90THpxc0t4Ni9SZ3djS1dVMTdDbUtZdEN6L25PcWR0aCtrd0E1VlliZGpDVlJOT2V0OUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzMwNTkzCWZpbGU6dXRpbGlmeS1zbmlwcGV0cy5leGUKQWJRa0V4Z1FoYjAvN3pGT0dLYU1JMkFQVTNMNG9DS05sZ2lES1V3ZzNUY0FPMFREZE0wcnJEVGlJSDhFVTdUaEU0WWFwMVkvZDQ4SmZFKzRJOS9GQWc9PQo=",
+      "critical": false
     }
   ],
   "modules": [
